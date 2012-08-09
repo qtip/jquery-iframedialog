@@ -32,3 +32,7 @@ Example
 </html>
 ```
 
+License
+=======
+jquery-iframedialog is covered by the the MIT license.
+See the LICENSE file
